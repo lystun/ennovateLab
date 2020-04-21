@@ -3,7 +3,7 @@
         <div class="row header">
             <div class="col-md-12 pl-0">
                 <h1>Ennovate Lab: The Innovation Hub</h1>
-                <img src="/img/InnovatonHubBanner.JPG" alt="Ennovate Lab innovation Hub" class="img-fluid">
+                <img src="/img/iHub/InnovatonHubBanner.JPG" alt="Ennovate Lab innovation Hub" class="img-fluid">
             </div>
         </div>
 
@@ -69,7 +69,7 @@
         <div class="row community">
             <div class="col-md-5 image">
                 <div class="card border-none">
-                    <img src="/img/wordpressCommunity.jpg" class="card-img" alt="Wordpress Community">
+                    <img src="/img/iHub/wordpressCommunity.jpg" class="card-img" alt="Wordpress Community">
                     <div class="card-img-overlay">
                         <h5 class="">Wordpress <br> Community</h5>
                     </div>
@@ -78,7 +78,7 @@
             <div class="col-md-5 offset-md-2 image">
                 
                 <div class="card border-none">
-                    <img src="/img/startupGrind.jpg" class="card-img" alt="Startup grind ogbomoso">
+                    <img src="/img/iHub/startupGrind.jpg" class="card-img" alt="Startup grind ogbomoso">
                     <div class="card-img-overlay">
                         <h5 class="">Startup Grind <br> Ogbomoso</h5>
                     </div>
@@ -90,13 +90,13 @@
         <div class="row cowork">
             <div class="col-md-5 image">
                 <div class="card border-none">
-                    <img src="/img/cowork2.jpg" class="card-img" alt="Startup grind ogbomoso">
+                    <img src="/img/iHub/cowork2.jpg" class="card-img" alt="Startup grind ogbomoso">
                     <div class="card-img-overlay"></div>
                 </div>
             </div>
             <div class="col-md-5 offset-md-2 image">
                 <div class="card border-none">
-                    <img src="/img/cowork1.jpg" class="card-img" alt="Wordpress Community">
+                    <img src="/img/iHub/cowork1.jpg" class="card-img" alt="Wordpress Community">
                     <div class="card-img-overlay"></div>
                 </div>
             </div>
@@ -149,13 +149,13 @@
         <div class="row ctctw">
             <div class="col-md-5 image">
                 <div class="card border-none">
-                    <img src="/img/oic1.jpg" class="card-img" alt="Children that change the world">
+                    <img src="/img/iHub/ctctw2.jpg" class="card-img" alt="Children that change the world">
                     <div class="card-img-overlay"></div>
                 </div>
             </div>
             <div class="col-md-5 offset-md-2 image">
                 <div class="card border-none">
-                    <img src="/img/oic2.jpg" class="card-img" alt="Children that change the world">
+                    <img src="/img/iHub/ctctw1.jpg" class="card-img" alt="Children that change the world">
                     <div class="card-img-overlay"></div>
                 </div>
             </div>
@@ -175,13 +175,13 @@
             
             <div class="col-md-5 image">
                 <div class="card border-none">
-                    <img src="/img/tio2.jpg" class="card-img" alt="This is ogbomoso">
+                    <img src="/img/iHub/tio2.jpg" class="card-img" alt="This is ogbomoso">
                     <div class="card-img-overlay"></div>
                 </div>
             </div>
             <div class="col-md-5 offset-md-2 image">
                 <div class="card border-none">
-                    <img src="/img/tio1.jpg" class="card-img" alt="This is ogbomoso">
+                    <img src="/img/iHub/tio1.jpg" class="card-img" alt="This is ogbomoso">
                     <div class="card-img-overlay"></div>
                 </div>
             </div>
@@ -199,13 +199,13 @@
         <div class="row digitalOgb">
             <div class="col-md-5 image">
                 <div class="card border-none">
-                    <img src="/img/digitalOgb2.jpg" class="card-img" alt="This is ogbomoso">
+                    <img src="/img/iHub/digitalOgb2.jpg" class="card-img" alt="This is ogbomoso">
                     <div class="card-img-overlay"></div>
                 </div>
             </div>
             <div class="col-md-5 offset-md-2 image">
                 <div class="card border-none">
-                    <img src="/img/digitalOgb1.jpg" class="card-img" alt="This is ogbomoso">
+                    <img src="/img/iHub/digitalOgb1.jpg" class="card-img" alt="This is ogbomoso">
                     <div class="card-img-overlay"></div>
                 </div>
             </div>
@@ -246,6 +246,7 @@
 
             h1 {
                 font-size: 2.5rem;
+                font-weight: bold;
                 margin-bottom: 4rem;
                 margin-top: 2rem;
             }
@@ -318,9 +319,9 @@
      
         .changemakers {
 
-            background:  linear-gradient(rgba($black, 0.6), rgba($black, 0.6) ), url('/img/changemakers.jpg') no-repeat;
+            background:  linear-gradient(rgba($black, 0.6), rgba($black, 0.6) ), url('/img/iHub/changemakers.jpg') no-repeat;
             background-size: cover;
-            height: 100vh;
+            height: 80vh;
             margin-bottom: 4rem;
 
             h1{

@@ -88,6 +88,7 @@
 
                 margin-bottom: 5rem;
                 border: none;
+                box-shadow: none;
 
                 a{
                     color: $black;

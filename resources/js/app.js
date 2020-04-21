@@ -12,10 +12,28 @@ import router from './helpers/router'
 
 import VueProgressBar from 'vue-progressbar'
 Vue.use(VueProgressBar, {
-    color: '#3369ff',
+    color: '#ffcc03',
     failedColor: 'red',
     height: '2px'
 })
+
+import VueTypedJs from 'vue-typed-js'
+Vue.use(VueTypedJs)
+
+import Vuelidate from 'vuelidate'
+Vue.use(Vuelidate)
+
+import swal from 'sweetalert2';
+window.swal = swal;
+
+const toast = swal.mixin({
+    toast: true,
+    position: 'top-end',
+    showConfirmButton: false,
+    timer: 5000
+})
+window.toast = toast
+
 
 
 
@@ -31,7 +49,9 @@ Vue.use(VueProgressBar, {
 // files.keys().map(key => Vue.component(key.split('/').pop().split('.')[0], files(key).default))
 
 // Vue.component('example-component', require('./components/ExampleComponent.vue').default);
+
 Vue.component('app-home', require('./components/AppHome.vue').default);
+Vue.component('app-admin', require('./components/AppAdmin.vue').default);
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to

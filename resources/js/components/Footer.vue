@@ -145,7 +145,7 @@
 
                     &:hover {
                         color: $primary;
-                        // border: 2px solid $primary;
+                        border: 2px solid $primary;
                     }
                     
                 }

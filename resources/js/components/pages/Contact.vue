@@ -2,7 +2,7 @@
     <div class="container-fluid contact">
         <div class="row header">
             <div class="col-md-12">
-                <h1>Contact Us</h1>
+                <h1>Want to Get In Touch?</h1>
             </div>
         </div>
 
@@ -40,8 +40,8 @@
 </template>
 
 <script>
-export default {
-
+export default {    
+    name: "Contact",
 }
 </script>
 

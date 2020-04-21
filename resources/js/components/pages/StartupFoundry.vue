@@ -3,7 +3,7 @@
         <div class="row header">
             <div class="col-md-12 pl-0">
                 <h1>The Lab: Our Startup Foundry</h1>
-                <img src="/img/startupFoundryBanner.JPG" alt="Ennovate Lab startup foundry Page" class="img-fluid">
+                <img src="/img/startupFoundry/startupFoundryBanner.jpg" alt="Ennovate Lab startup foundry Page" class="img-fluid">
             </div>
         </div>
 
@@ -19,10 +19,10 @@
                         <h4 class="intro">Startups in Our Portfolio:</h4>
                     </div>
 
-                    <div class="card">
+                    <div class="card border-none">
                         <div class="row no-gutters">
                             <div class="col-md-4 logo">
-                                <img src="/img/QeolaLogo.png" alt="Qeola Logo" class="img-fluid">
+                                <img src="/img/startupFoundry/QeolaLogo.png" alt="Qeola Logo" class="img-fluid">
                             </div>
                             <div class="col-md-8 details">
                                 <div class="card-body">
@@ -38,7 +38,7 @@
                     <div class="card">
                         <div class="row no-gutters">
                             <div class="col-md-4 logo">
-                                <img src="/img/cogneasyLogo.png" alt="Qeola Logo" class="img-fluid">
+                                <img src="/img/startupFoundry/cogneasyLogo.png" alt="Qeola Logo" class="img-fluid">
                             </div>
                             <div class="col-md-8 details">
                                 <div class="card-body">
@@ -54,7 +54,7 @@
                     <div class="card">
                         <div class="row no-gutters">
                             <div class="col-md-4 logo">
-                                <img src="/img/GradePlusLogo.png" alt="Gradeplus Africa Logo" class="img-fluid">
+                                <img src="/img/startupFoundry/GradePlusLogo.png" alt="Gradeplus Africa Logo" class="img-fluid">
                             </div>
                             <div class="col-md-8 details">
                                 <div class="card-body">
@@ -70,8 +70,7 @@
                     <div class="card">
                         <div class="row no-gutters">
                             <div class="col-md-4 logo">
-                                <!-- <img src="" alt="" class="img-fluid"> -->
-                                <h3 class="font-weight-bold">Virtually</h3>
+                                <img src="/img/startupFoundry/virtuallyLogo.png" alt="Virtually Logo" class="img-fluid">
                             </div>
                             <div class="col-md-8 details">
                                 <div class="card-body">
@@ -87,7 +86,7 @@
                     <div class="card">
                         <div class="row no-gutters">
                             <div class="col-md-4 logo">
-                                <h3 class="font-weight-bold">GreenGirly</h3>
+                                <img src="/img/startupFoundry/greengirlyLogo.png" alt="Green Girly Logo" class="img-fluid">
                             </div>
                             <div class="col-md-8 details">
                                 <div class="card-body">
@@ -102,7 +101,7 @@
                     <div class="card">
                         <div class="row no-gutters">
                             <div class="col-md-4 logo">
-                                <h3 class="font-weight-bold">Commugrid</h3>
+                                <img src="/img/startupFoundry/commugridLogo.png" alt="Commugrid Logo" class="img-fluid">
                             </div>
                             <div class="col-md-8 details">
                                 <div class="card-body">
@@ -150,6 +149,7 @@
                 font-size: 2.5rem;
                 margin-bottom: 4rem;
                 margin-top: 2rem;
+                font-weight: bold;
             }
         }
 
@@ -180,6 +180,7 @@
 
                     margin-bottom: 2rem;
                     border:none;
+                    box-shadow: none;
             
                     .logo {
                         padding: 1rem;

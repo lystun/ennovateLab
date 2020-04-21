@@ -19,9 +19,9 @@
             <nav class="navigation__nav">
                 <ul class="navigation__list">
                     <li class="navigation__item">
-                        <router-link to="/about-us" class="navigation__link" active-class="active">About Us</router-link>
+                        <router-link to="/about-us" class="navigation__link" active-class="active" @click="close"> About Us</router-link>
                     </li>
-                    <li class="navigation__item">
+                    <li class="navigation__item" @click="close">
                         <router-link to="/our-work" class="navigation__link" active-class="active">Our Work</router-link>
                     </li>
                     <li class="navigation__item">
@@ -33,7 +33,6 @@
                     <li class="navigation__item">
                         <router-link to="/blog" class="navigation__link" active-class="active">Blog</router-link>
                     </li>
-                   <!-- <li class="navigation__item"><a href="" class="navigation__link">Blog</a></li> -->
                 </ul>
             </nav>
         </div>
@@ -45,14 +44,16 @@
         name : "Header",
 
         created(){
-            this.close()
+
         },
 
 
 
         methods : {
             close(){
-
+                console.log("Clicked on link")
+                alert('closed');
+                
             }
         }
 
@@ -105,7 +106,7 @@
                 top: 2rem;
                 right: 7rem;
                 z-index: 1000;
-                transition: transform .8s cubic-bezier(0.76, 0, 0.24, 1);
+                transition: transform 1s cubic-bezier(0.76, 0, 0.24, 1);
             }
 
             &__nav {
@@ -119,7 +120,7 @@
                 // opacity : 1;
                 // width: 100%;
                 background: $primary;
-            	transition: all .8s cubic-bezier(0.68, -0.6, 0.32, 1.6);
+            	transition: all 1s cubic-bezier(0.68, -0.6, 0.32, 1.6);
             }
 
             &__list {
@@ -147,7 +148,7 @@
                     text-transform: uppercase;
                     text-decoration: none;
 
-                    background-image: linear-gradient( transparent 0%, transparent calc(50% - 1rem), $white calc(50% - 1rem) , $white 100%  );
+                    background-image: linear-gradient( transparent 0%, transparent calc(50% - 2rem), $white calc(50% - 2rem) , $white 100%  );
                     background-size: 100% 200%;
                     background-position: 0 0;
                     transition: background-position 120ms ease-in-out;
@@ -156,7 +157,7 @@
                 
                 &:active,
                 &:hover {
-                    background-image: linear-gradient( transparent 00%, transparent calc(50% - 1rem), $white calc(50% - 1rem), $white 100% );
+                    background-image: linear-gradient( transparent 00%, transparent calc(50% - 2rem), $white calc(50% - 2rem), $white 100% );
                     background-position: 0 100%;
                 }
 

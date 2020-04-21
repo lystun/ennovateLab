@@ -1,0 +1,20 @@
+
+
+body {
+    background: #fff;
+    font-family: 'Poppins', sans-serif;
+}
+
+.sidebar-dark-primary .nav-sidebar > .nav-item > .nav-link.active,
+.sidebar-light-primary .nav-sidebar > .nav-item > .nav-link.active {
+	background-color: rgb(255, 205, 3);
+	color: #fff;
+}
+
+.content-wrapper {
+    background: inherit;
+}
+
+[class*='sidebar-dark-'] {
+	background-color: #000;
+}

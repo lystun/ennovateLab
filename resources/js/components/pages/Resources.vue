@@ -3,7 +3,7 @@
         <div class="row header">
             <div class="col-md-12">
                 <h1>Resources</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga nihil vel maiores, debitis rerum eveniet. Quas est saepe, aut illo tempora sit voluptatum animi aspernatur voluptatibus repudiandae soluta debitis temporibus?</p>
+                <p>Below are our top tactical tips for staying connected and remaining supportive of your team, even when you’re not in the same location.</p>
             </div>
         </div>
 
@@ -13,7 +13,7 @@
                     <div class="card shadow">
                         <div class="row">
                             <div class="col-md-4 cover">
-                                <img src="/img/importantQuestions.jpg" alt="" class="img-fluid">
+                                <img src="/img/resources/importantQuestions.jpg" alt="" class="img-fluid">
                             </div>
                             <div class="col-md-8 description">
                                 <h4>The Most important question in the 21st century</h4>
@@ -28,7 +28,7 @@
                     <div class="card shadow">
                         <div class="row">
                             <div class="col-md-4 cover">
-                                <img src="/img/artOfNarrative.jpg" alt="" class="img-fluid">
+                                <img src="/img/resources/artOfNarrative.jpg" alt="" class="img-fluid">
                             </div>
                             <div class="col-md-8 description">
                                 <h4>The art of the narrative</h4>
@@ -39,6 +39,14 @@
                     </div>
                 </div>
             </div>
+
+
+            <div class="col-md-12 subscribe">
+                <p>We provide access to original resources to our subscribers</p>
+                <a href="" >Subscribe</a>
+            </div>
+
+
         </div>
     </div>
 </template>
@@ -78,6 +86,8 @@
         .content {
             .resource {
 
+                margin-bottom: 4rem;
+
                 .card .row {
 
                     padding: 1rem;
@@ -110,6 +120,30 @@
 
                 }
             }
+
+            .subscribe {
+
+                p {
+                    font-size: 1rem;
+                }
+
+                a {
+                    color: $black;
+                    font-size: 1.2rem;
+                    font-weight: bold;
+                    text-decoration: none;
+
+                    background-image: linear-gradient( transparent 0%, transparent calc(50% - .7rem), $primary calc(50% - .7rem), $primary 100% );
+                    background-size: 100% 200%;
+                    background-position: 0 0;
+                    transition: background-position 120ms ease-in-out;
+
+                    &:hover {
+                        background-image: linear-gradient( transparent 0%, transparent calc(50% - .7rem), $primary calc(50% - .7rem), $primary 100% );
+                        background-position: 0 100%;
+                    }
+                }
+            }
         }
 
     }
@@ -136,6 +170,7 @@
 
             .content {
                 .resource {
+                    margin-bottom: 2rem;
 
                     .card .row {
 
@@ -167,6 +202,7 @@
 
                     }
                 }
+
             }
 
         }
@@ -194,6 +230,8 @@
 
             .content {
                 .resource {
+
+                    margin-bottom: 1rem;
 
                     .card {
 

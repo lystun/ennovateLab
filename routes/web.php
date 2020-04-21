@@ -13,15 +13,12 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// Route::get('/', function () {
-//     return view('welcome');
-// });
+// Auth::routes();
 
-Auth::routes();
-
-// Route::get('/home', 'HomeController@index')->name('home');
-// Route::get('/about', 'HomeController@about')->name('about');
-
+//Actual loaded route for the backend
+Route::get('/admin/{any}', 'PagesController@backend')->where('any', '.*');
 
 //Actual loaded route for the frontend
-Route::get('/{any}', 'FrontendController@index')->where('any', '.*');
+Route::get('/{any}', 'PagesController@frontend')->where('any', '.*');
+
+//
