@@ -2,7 +2,7 @@
     <div class="container-fluid footer">
         <div class="row">
             
-            <div class="col-lg-3 col-md-6 about-us">
+            <div class="col-lg-3 col-md-6 about-us ">
                 <h4>About Us</h4>
 
                 <div class="links">
@@ -20,7 +20,7 @@
                     <router-link to="/">Seed Cloud</router-link>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 quick-links">
+            <div class="col-lg-3 col-md-6 quick-links ">
                 <h4>Quick Links</h4>
 
                 <div class="links">
@@ -31,7 +31,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 elab">
+            <div class="col-lg-3 col-md-6 elab ">
                 <img src="/img/full_logo2.png" alt="Ennovate lab's logo" class="img-fluid">
 
                 <div class="subscribe">

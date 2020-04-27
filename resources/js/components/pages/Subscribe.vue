@@ -21,8 +21,8 @@
                             <input type="email" class="form-control form-control-lg" placeholder="Email">
                         </div>
                     </div>
-
-                    <a href="#" type="submit">Subscribe</a>
+                    
+                    <a href="/" type="submit">Subscribe</a>
                 </form>
             </div>
         </div>
@@ -46,7 +46,6 @@ export default {
     .subscribe {
 
         padding: 2rem 7rem;
-        background: url('/img/subscribeBckg.png');
 
         .header {
 

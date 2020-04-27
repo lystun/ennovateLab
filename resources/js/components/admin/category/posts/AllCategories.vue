@@ -30,10 +30,10 @@
                                         class="btn btn-sm btn-primary mx-1">
                                         <i class="fa fa-edit"></i>
                                     </router-link>
-                                    <button class="btn btn-sm btn-danger mx-1" @click="destroy(category.slug)">
+
+                                    <!-- <button class="btn btn-sm btn-danger mx-1" @click="destroy(category.slug)">
                                         <i class="fa fa-trash"></i>
-                                    </button>
-                                    
+                                    </button> -->
                                 </td>
                             </tr>
                         

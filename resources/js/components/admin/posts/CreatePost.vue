@@ -51,7 +51,6 @@
                         </div>
 
                         <div class="col-md-12 mb-4">
-                            <!-- <label for="screenshot">Upload Post Image</label> -->
                             <input type="file" 
                                 class="form-control" id="screenshot"
                                 :class="{ 'is-invalid' : photoStatus == false, 'is-valid' : photoStatus == true }"
@@ -63,9 +62,10 @@
                             <small v-if="photoMsg" class="text-danger">Field is required</small>
                         </div>
 
-                        <!-- <div class="col-md-12 mb-4">
-                            <ckeditor :editor="editor" v-model="this.form.article" :config="config"></ckeditor>
-                        </div> -->
+                        <div class="col-md-12 mb-4">
+                            <label for="screenshot">Post Article</label>
+                            <ckeditor :editor="editor" v-model="this.form.article" :config="config" tag-name="textarea"></ckeditor>
+                        </div>
                     </div>
 
                     <div class="card-footer text-right">
@@ -79,8 +79,8 @@
 
 <script>
 
-import { required } from 'vuelidate/lib/validators';
-//  import ClassicEditor from '@ckeditor/ckeditor5-build-classic';
+    import { required } from 'vuelidate/lib/validators';
+    import ClassicEditor from '@ckeditor/ckeditor5-build-classic';
 
 export default {
     name : "CreatePost",
@@ -104,7 +104,8 @@ export default {
             editor : ClassicEditor,
             config : {
 
-            }
+            },
+
         }
     },
 

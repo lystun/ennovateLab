@@ -43,7 +43,8 @@
 
             <div class="col-md-12 subscribe">
                 <p>We provide access to original resources to our subscribers</p>
-                <a href="" >Subscribe</a>
+                <!-- <a href="" ></a> -->
+                <router-link to="/subscribe">Subscribe</router-link>
             </div>
 
 

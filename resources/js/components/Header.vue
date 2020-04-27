@@ -19,19 +19,19 @@
             <nav class="navigation__nav">
                 <ul class="navigation__list">
                     <li class="navigation__item">
-                        <router-link to="/about-us" class="navigation__link" active-class="active" @click="close"> About Us</router-link>
-                    </li>
-                    <li class="navigation__item" @click="close">
-                        <router-link to="/our-work" class="navigation__link" active-class="active">Our Work</router-link>
+                        <a href="/about-us" class="navigation__link">About Us</a>
                     </li>
                     <li class="navigation__item">
-                        <router-link to="/experiments" class="navigation__link" active-class="active">eXperiments</router-link>
+                        <a href="/our-work" class="navigation__link">Our Work</a>
                     </li>
                     <li class="navigation__item">
-                        <router-link to="/resources" class="navigation__link" active-class="active">Resources</router-link>
+                        <a href="/experiments" class="navigation__link">eXperiments</a>
                     </li>
-                    <li class="navigation__item">
-                        <router-link to="/blog" class="navigation__link" active-class="active">Blog</router-link>
+                    <li class="navigation__item" @click="reload">
+                        <a href="/resources" class="navigation__link">Resources</a>
+                    </li>
+                    <li class="navigation__item" @click="reload">
+                        <a href="/blog" class="navigation__link">Blog</a>
                     </li>
                 </ul>
             </nav>
@@ -47,14 +47,8 @@
 
         },
 
-
-
         methods : {
-            close(){
-                console.log("Clicked on link")
-                alert('closed');
-                
-            }
+            
         }
 
     }
@@ -70,8 +64,10 @@
         height: 5.5rem;
         background: $primary;
         position: relative;
+        // width: 100%;
 
         .logo-box{
+
             position : absolute;
             top : 1rem;
             left: 5rem;
@@ -87,10 +83,12 @@
             }
 
             &__button {
+
                 background-color: transparent;
                 height: 3rem;
                 width: 8rem;
-                position: fixed;
+                // position: fixed;
+                position: absolute;
                 top: 2rem;
                 right: 7rem;
                 z-index: 2000;
@@ -102,7 +100,8 @@
                 height: 3rem;
                 width: 8rem;
                 background: $primary;
-                position: fixed;
+                // position: fixed;
+                position: absolute;
                 top: 2rem;
                 right: 7rem;
                 z-index: 1000;
@@ -139,7 +138,6 @@
 
             &__link {
 
-
                 &:link,
                 &:visited {
                     font-size: 3rem;
@@ -157,10 +155,9 @@
                 
                 &:active,
                 &:hover {
-                    background-image: linear-gradient( transparent 00%, transparent calc(50% - 2rem), $white calc(50% - 2rem), $white 100% );
+                    background-image: linear-gradient( transparent 0%, transparent calc(50% - 2rem), $white calc(50% - 2rem), $white 100% );
                     background-position: 0 100%;
                 }
-
 
             }
 

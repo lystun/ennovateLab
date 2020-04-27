@@ -13,7 +13,7 @@
             </div>
         </div>
 
-        <div class="row slider">
+        <!-- <div class="row slider">
             <div class="col-md-12 line">
                 <hr>
             </div>
@@ -25,6 +25,138 @@
             </div>
             <div class="col-md-8 description">
                 <p>Clients trained on Critical, Creative thinking, and Complex problem solving by Cogneasy.</p>
+            </div>
+        </div> -->
+
+        <div class="row slider">
+            <div class="col-md-12 line">
+                <!-- <hr> -->
+            </div>
+            <div class="col-md-12">            
+                <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <div class="row">
+                                <div class="col-md-4 number">
+                                    <h1>1750+</h1>
+
+                                    <a href="#carouselExampleIndicators" role="button" data-slide="prev">
+                                        <span class="arrow pr-3">&#8592;</span>
+                                    </a>
+
+                                    <a href="#carouselExampleIndicators" role="button" data-slide="next">
+                                        <span class="arrow pl-3">&#8594;</span>
+                                    </a>
+                                </div>
+                                <div class="col-md-8 description">
+                                    <p>Clients trained on Critical, Creative thinking, and Complex problem solving by Cogneasy.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row">
+                                <div class="col-md-4 number">
+                                    <h1>500+</h1>
+                                    <a href="#carouselExampleIndicators" role="button" data-slide="prev">
+                                        <span class="arrow pr-3">&#8592;</span>
+                                    </a>
+
+                                    <a href="#carouselExampleIndicators" role="button" data-slide="next">
+                                        <span class="arrow pl-3">&#8594;</span>
+                                    </a>
+                                </div>
+                                <div class="col-md-8 description">
+                                    <p>teens and adults impacted through 3 innovation challenges held in Ogbomoso</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row">
+                                <div class="col-md-4 number">
+                                    <h1>40+</h1>
+                                    <a href="#carouselExampleIndicators" role="button" data-slide="prev">
+                                        <span class="arrow pr-3">&#8592;</span>
+                                    </a>
+
+                                    <a href="#carouselExampleIndicators" role="button" data-slide="next">
+                                        <span class="arrow pl-3">&#8594;</span>
+                                    </a>
+                                </div>
+                                <div class="col-md-8 description">
+                                    <p>Clients on our brand influence agency, Qeola</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row">
+                                <div class="col-md-4 number">
+                                    <h1>140+</h1>
+                                    <a href="#carouselExampleIndicators" role="button" data-slide="prev">
+                                        <span class="arrow pr-3">&#8592;</span>
+                                    </a>
+
+                                    <a href="#carouselExampleIndicators" role="button" data-slide="next">
+                                        <span class="arrow pl-3">&#8594;</span>
+                                    </a>
+                                </div>
+                                <div class="col-md-8 description">
+                                    <p>Team Members (Staff, Interns, Volunteers)</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row">
+                                <div class="col-md-4 number">
+                                    <h1>1200+</h1>
+                                    <a href="#carouselExampleIndicators" role="button" data-slide="prev">
+                                        <span class="arrow pr-3">&#8592;</span>
+                                    </a>
+
+                                    <a href="#carouselExampleIndicators" role="button" data-slide="next">
+                                        <span class="arrow pl-3">&#8594;</span>
+                                    </a>
+                                </div>
+                                <div class="col-md-8 description">
+                                    <p>books being donated and distributed to over 800 children and 2 Libraries in Ogbomoso</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row">
+                                <div class="col-md-4 number">
+                                    <h1>20+</h1>
+                                    <a href="#carouselExampleIndicators" role="button" data-slide="prev">
+                                        <span class="arrow pr-3">&#8592;</span>
+                                    </a>
+
+                                    <a href="#carouselExampleIndicators" role="button" data-slide="next">
+                                        <span class="arrow pl-3">&#8594;</span>
+                                    </a>
+                                </div>
+                                <div class="col-md-8 description">
+                                    <p>Entrepreneurs given Advisory services and Mentorship</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row">
+                                <div class="col-md-4 number">
+                                    <h1>10000+</h1>
+                                    <a href="#carouselExampleIndicators" role="button" data-slide="prev">
+                                        <span class="arrow pr-3">&#8592;</span>
+                                    </a>
+
+                                    <a href="#carouselExampleIndicators" role="button" data-slide="next">
+                                        <span class="arrow pl-3">&#8594;</span>
+                                    </a>
+                                </div>
+                                <div class="col-md-8 description">
+                                    <p> listeners to the weekly radio broadcast that imparts the knowledge of critical and creative thinking by CTCTW</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -79,10 +211,9 @@
         name : "Home",
 
         mounted(){
-            console.log("Home Component");
+
         }
 
-        
     }
 </script>
 
@@ -170,10 +301,17 @@
                     font-size: 4rem;
                 }
 
-                .arrow {
+                a {
+                    text-decoration: none;
+                    color: #333;
                     font-size: 3rem;
                     cursor: pointer;
+                    
+                    &:hover {
+                        color: #fff;
+                    }
                 }
+
             }
 
             .description {

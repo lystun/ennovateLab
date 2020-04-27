@@ -44,7 +44,7 @@ const routes = [
     { path : '/resources', name : "Resources", components : { default : Resources } },
     { path : '/experiments', name : "Experiments", components : { default : Experiments } },
     { path : '/subscribe', name : "Subscribe", components : { default : Subscribe } },
-    { path : '/contact', name : "Contact", components : { default : Contact } },
+    { path : '/contact-us', name : "Contact", components : { default : Contact } },
 
     
     //admin
@@ -67,6 +67,10 @@ const routes = [
 const router = new VueRouter({
     mode : 'history',
     routes,
+    
+    scrollBehavior (to, from, savedPosition) {
+        return { x: 0, y: 0 }
+    }
 })
 
 

@@ -7,11 +7,11 @@
                 </div>
                 <h1>The story of a good design</h1>
                 <div class="info">
-                    <span>By Funto Adesola</span>
+                    <span>By Olajide Ajibade</span>
                     <span>March 27, 2020</span>
                 </div>
                 
-                <img src="/img/startupFoundryBanner.JPG" alt="Ennovate Lab startup foundry Page" class="img-fluid">
+                <img src="/img/startupFoundry/startupFoundryBanner.jpg" alt="Ennovate Lab startup foundry Page" class="img-fluid">
             
                 <div class="text">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum possimus temporibus neque aspernatur sint alias odio pariatur! Quam repellat minima ad quos temporibus quis rem. Sunt consequuntur laborum eum iusto.</p>
@@ -19,6 +19,7 @@
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum possimus temporibus neque aspernatur sint alias odio pariatur! Quam repellat minima ad quos temporibus quis rem. Sunt consequuntur laborum eum iusto.</p>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum possimus temporibus neque aspernatur sint alias odio pariatur! Quam repellat minima ad quos temporibus quis rem. Sunt consequuntur laborum eum iusto.</p>
                 </div>
+                
             </div>
         </div>
     </div>
