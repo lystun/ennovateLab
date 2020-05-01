@@ -22,15 +22,15 @@
                         <a href="/about-us" class="navigation__link">About Us</a>
                     </li>
                     <li class="navigation__item">
-                        <a href="/our-work" class="navigation__link">Our Work</a>
+                        <a href="/startup-foundry" class="navigation__link">Foundry</a>
                     </li>
                     <li class="navigation__item">
                         <a href="/experiments" class="navigation__link">eXperiments</a>
                     </li>
-                    <li class="navigation__item" @click="reload">
+                    <li class="navigation__item">
                         <a href="/resources" class="navigation__link">Resources</a>
                     </li>
-                    <li class="navigation__item" @click="reload">
+                    <li class="navigation__item">
                         <a href="/blog" class="navigation__link">Blog</a>
                     </li>
                 </ul>

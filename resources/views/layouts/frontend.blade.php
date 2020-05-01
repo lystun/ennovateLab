@@ -7,7 +7,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Ennovate Lab') }}</title>
+    <title>Ennovate Lab - Building Resilient Innovation Ecosystems in Under-served University communities</title>
 
     <link rel="title icon" href="{{ asset('img/favicon.png') }}">
 

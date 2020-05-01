@@ -6,17 +6,17 @@
                 <h4>About Us</h4>
 
                 <div class="links">
-                    <router-link to="/">Innovation Hub</router-link>
-                    <router-link to="/">Startup Foundry</router-link>
-                    <router-link to="/">Seed Fund</router-link>
+                    <router-link to="/innovation-hub">Innovation Hub</router-link>
+                    <router-link to="/startup-foundry">Startup Foundry</router-link>
+                    <router-link to="/seed-cloud">Seed Fund</router-link>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 our-work">
-                <h4>Our Work</h4>
+                <h4>eXperiments</h4>
 
                 <div class="links">
-                    <router-link to="/">Ennovate Lab</router-link>
-                    <router-link to="/">The Lab</router-link>
+                    <router-link to="/experiments">Sand Box</router-link>
+                    <router-link to="/experiments">Factory</router-link>
                     <router-link to="/">Seed Cloud</router-link>
                 </div>
             </div>
@@ -24,24 +24,17 @@
                 <h4>Quick Links</h4>
 
                 <div class="links">
-                    <router-link to="/">Resources</router-link>
-                    <router-link to="/">Blog</router-link>
-                    <router-link to="/">eXperimennts</router-link>
-                    <router-link to="/">Contact Us</router-link>
+                    <router-link to="/resources">Resources</router-link>
+                    <router-link to="/blog">Blog</router-link>
+                    <router-link to="/contact-us">Contact Us</router-link>
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 elab ">
+            <div class="col-lg-3 col-md-6 elab">
                 <img src="/img/full_logo2.png" alt="Ennovate lab's logo" class="img-fluid">
 
                 <div class="subscribe">
-                    <label for="subscribe">Subscribe to our weekly newsletter</label>
-                    <div class="input-group">
-                        <input type="email" class="" id="subscribe">
-                        <div class="input-group-append">
-                            <button class="btn" type="button">Subscribe</button>
-                        </div>
-                    </div>
+                    <p>Building Resilient Innovation Ecosystems in Under-served University communities</p>
                 </div>
 
                 <div class="socials">
@@ -108,29 +101,20 @@
         .elab {
             img {
                 height: 3rem;
-                margin-bottom: 2rem;
+                margin-bottom: 1.5rem;
             }
 
             .subscribe {
-                margin-bottom: 2.5rem;
+                margin-bottom: 2rem;
 
-                input {
-                    background: transparent;
-                    border: 2px solid $white;
-                    border-right: none;
-                    color: $white;
-                    padding-left: .5rem;
-                    height: 2.5rem;
+                p {
+                    font-size: 1rem;
                 }
 
-                .btn {
-                    background: $white;
-                    color: $black;
-                }
             }
 
             .socials {
-                margin-bottom: 2rem;
+                margin-bottom: 1.5rem;
 
                 a {
                     color: $white;

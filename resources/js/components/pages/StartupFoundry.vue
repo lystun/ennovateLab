@@ -108,7 +108,7 @@
                                     <p class="card-text">Democratizing Energy Access To Communities</p>
                                     <p class="card-text">Every woman has the right to live and thrive in clean communities. GreenGirly is a block-chain powered women-in-recycling programme promoting cleaner societies by empowering women with relevant educational and trading resources to learn and earn.</p>
                                     
-                                    <a href="https://greengirly.com" target="_blank" class="link">Visit Website</a>
+                                    <a href="https://commugrid.com" target="_blank" class="link">Visit Website</a>
                                 </div>
                             </div>
                         </div>

@@ -17,7 +17,7 @@
                                 <small>Design</small>
                                 <small>March 27, 2020</small>
                             </div>
-                            <h4>The art of Desruptive Design</h4>
+                            <h4>The art of Disruptive Design</h4>
                             <p>Lorem  Beatae animi quaerat deleniti debitis porro tempora quam rem, optio nemo, quidem quo suscipit esse illo consequatur, consequuntur ratione obcaecati blanditiis repellendus. </p>
                             <router-link to="/">Continue Reading...</router-link>
                         </div>
@@ -34,7 +34,7 @@
                                 <small>March 27, 2020</small>
                             </div>
                             <h4>Ennovate Lab: The Innovation Hub</h4>
-                            <p>Building resilient innovation ecosystems in underserved university communities.</p>
+                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos laboriosam optio placeat rem officia ut maiores nihil repellendus magni tenetur vitae ab corporis sit alias vero, dolores facere fuga sunt?</p>
                             <router-link to="/">Continue Reading...</router-link>
                         </div>
                     </div>

@@ -2111,13 +2111,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: "Footer",
   data: function data() {
@@ -9230,7 +9223,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".footer[data-v-61a7c374] {\n  padding: 5rem 7rem;\n  background: #2f2f2f;\n  color: #fff;\n}\n.footer .elab img[data-v-61a7c374] {\n  height: 3rem;\n  margin-bottom: 2rem;\n}\n.footer .elab .subscribe[data-v-61a7c374] {\n  margin-bottom: 2.5rem;\n}\n.footer .elab .subscribe input[data-v-61a7c374] {\n  background: transparent;\n  border: 2px solid #fff;\n  border-right: none;\n  color: #fff;\n  padding-left: 0.5rem;\n  height: 2.5rem;\n}\n.footer .elab .subscribe .btn[data-v-61a7c374] {\n  background: #fff;\n  color: #000;\n}\n.footer .elab .socials[data-v-61a7c374] {\n  margin-bottom: 2rem;\n}\n.footer .elab .socials a[data-v-61a7c374] {\n  color: #fff;\n  background: transparent;\n  margin-right: 0.7rem;\n  width: 3.5rem;\n  height: 1rem;\n  padding: 0.2rem 0.4rem;\n  border-radius: 50%;\n  border: 2px solid #fff;\n}\n.footer .elab .socials a[data-v-61a7c374]:hover {\n  color: #ffcc03;\n  border: 2px solid #ffcc03;\n}\n.footer .about-us h4[data-v-61a7c374], .footer .our-work h4[data-v-61a7c374], .footer .quick-links h4[data-v-61a7c374] {\n  font-weight: bold;\n  margin-bottom: 3rem;\n  font-size: 1.2rem;\n}\n.footer .about-us .links a[data-v-61a7c374], .footer .our-work .links a[data-v-61a7c374], .footer .quick-links .links a[data-v-61a7c374] {\n  display: block;\n  font-size: 1rem;\n  margin-bottom: 0.7rem;\n  color: #fff;\n  text-decoration: none;\n}\n.footer .about-us .links a[data-v-61a7c374]:hover, .footer .our-work .links a[data-v-61a7c374]:hover, .footer .quick-links .links a[data-v-61a7c374]:hover {\n  color: #ffcc03;\n}\n.footer .footnote[data-v-61a7c374] {\n  margin-top: 3rem;\n}\n.footer .footnote hr[data-v-61a7c374] {\n  background: #fff;\n}\n.footer .footnote .privacy[data-v-61a7c374], .footer .footnote .legal[data-v-61a7c374] {\n  float: right;\n  margin-left: 2rem;\n}\n@media screen and (max-width: 576px) {\n.footer[data-v-61a7c374] {\n    padding: 5rem 2rem;\n}\n.footer .elab img[data-v-61a7c374] {\n    height: 3rem;\n    margin-bottom: 1rem;\n}\n.footer .elab .subscribe[data-v-61a7c374] {\n    margin-bottom: 2.5rem;\n}\n.footer .elab .subscribe input[data-v-61a7c374] {\n    background: transparent;\n    border: 2px solid #fff;\n}\n.footer .elab .subscribe .btn[data-v-61a7c374] {\n    background: #fff;\n    color: #000;\n}\n.footer .elab .socials[data-v-61a7c374] {\n    margin-bottom: 2rem;\n}\n.footer .elab .socials a[data-v-61a7c374] {\n    color: #000;\n    background: #fff;\n    margin-right: 0.7rem;\n    width: 3rem;\n    height: 1rem;\n    padding: 0.2rem 0.4rem;\n    border-radius: 50%;\n}\n.footer .about-us[data-v-61a7c374], .footer .our-work[data-v-61a7c374], .footer .quick-links[data-v-61a7c374] {\n    margin-bottom: 3rem;\n}\n.footer .about-us h4[data-v-61a7c374], .footer .our-work h4[data-v-61a7c374], .footer .quick-links h4[data-v-61a7c374] {\n    margin-bottom: 1.2rem;\n    font-size: 1.2rem;\n}\n.footer .about-us .links a[data-v-61a7c374], .footer .our-work .links a[data-v-61a7c374], .footer .quick-links .links a[data-v-61a7c374] {\n    display: block;\n    font-size: 1rem;\n    margin-bottom: 0.7rem;\n    color: #fff;\n    text-decoration: none;\n}\n.footer .about-us .links a[data-v-61a7c374]:hover, .footer .our-work .links a[data-v-61a7c374]:hover, .footer .quick-links .links a[data-v-61a7c374]:hover {\n    color: #ffcc03;\n}\n.footer .footnote[data-v-61a7c374] {\n    margin-top: 2rem;\n}\n.footer .footnote .privacy[data-v-61a7c374], .footer .footnote .legal[data-v-61a7c374] {\n    float: right;\n    margin-left: 0.5rem;\n    display: block;\n    font-size: 0.7rem;\n}\n}\n@media screen and (min-width: 576px) and (max-width: 768px) {\n.footer[data-v-61a7c374] {\n    padding: 5rem 3rem;\n}\n.footer .elab img[data-v-61a7c374] {\n    height: 3rem;\n    margin-bottom: 1rem;\n}\n.footer .elab .subscribe[data-v-61a7c374] {\n    margin-bottom: 2.5rem;\n}\n.footer .elab .subscribe input[data-v-61a7c374] {\n    background: transparent;\n    border: 2px solid #fff;\n    border-right: none;\n}\n.footer .elab .subscribe .btn[data-v-61a7c374] {\n    background: #fff;\n    color: #000;\n}\n.footer .elab .socials[data-v-61a7c374] {\n    margin-bottom: 2rem;\n}\n.footer .elab .socials a[data-v-61a7c374] {\n    color: #000;\n    background: #fff;\n    margin-right: 0.7rem;\n    width: 3rem;\n    height: 1rem;\n    padding: 0.2rem 0.4rem;\n    border-radius: 50%;\n}\n.footer .about-us[data-v-61a7c374], .footer .our-work[data-v-61a7c374], .footer .quick-links[data-v-61a7c374] {\n    margin-bottom: 3rem;\n}\n.footer .about-us h4[data-v-61a7c374], .footer .our-work h4[data-v-61a7c374], .footer .quick-links h4[data-v-61a7c374] {\n    margin-bottom: 1.2rem;\n    font-size: 1.2rem;\n}\n.footer .about-us .links a[data-v-61a7c374], .footer .our-work .links a[data-v-61a7c374], .footer .quick-links .links a[data-v-61a7c374] {\n    display: block;\n    font-size: 1rem;\n    margin-bottom: 0.7rem;\n    color: #fff;\n    text-decoration: none;\n}\n.footer .about-us .links a[data-v-61a7c374]:hover, .footer .our-work .links a[data-v-61a7c374]:hover, .footer .quick-links .links a[data-v-61a7c374]:hover {\n    color: #ffcc03;\n}\n.footer .footnote[data-v-61a7c374] {\n    margin-top: 2rem;\n}\n.footer .footnote .privacy[data-v-61a7c374], .footer .footnote .legal[data-v-61a7c374] {\n    float: right;\n    margin-left: 0.5rem;\n    display: block;\n    font-size: 0.7rem;\n}\n}\n@media screen and (min-width: 768px) and (max-width: 992px) {\n.footer[data-v-61a7c374] {\n    padding: 5rem 3rem;\n}\n.footer .elab img[data-v-61a7c374] {\n    height: 3rem;\n    margin-bottom: 1rem;\n}\n.footer .elab .subscribe[data-v-61a7c374] {\n    margin-bottom: 2.5rem;\n}\n.footer .elab .subscribe input[data-v-61a7c374] {\n    background: transparent;\n    border: 2px solid #fff;\n    border-right: none;\n}\n.footer .elab .subscribe .btn[data-v-61a7c374] {\n    background: #fff;\n    color: #000;\n}\n.footer .elab .socials[data-v-61a7c374] {\n    margin-bottom: 2rem;\n}\n.footer .elab .socials a[data-v-61a7c374] {\n    color: #000;\n    background: #fff;\n    margin-right: 0.7rem;\n    width: 3rem;\n    height: 1rem;\n    padding: 0.2rem 0.4rem;\n    border-radius: 50%;\n}\n.footer .about-us[data-v-61a7c374], .footer .our-work[data-v-61a7c374], .footer .quick-links[data-v-61a7c374] {\n    margin-bottom: 3rem;\n}\n.footer .about-us h4[data-v-61a7c374], .footer .our-work h4[data-v-61a7c374], .footer .quick-links h4[data-v-61a7c374] {\n    margin-bottom: 1.2rem;\n    font-size: 1.2rem;\n}\n.footer .about-us .links a[data-v-61a7c374], .footer .our-work .links a[data-v-61a7c374], .footer .quick-links .links a[data-v-61a7c374] {\n    display: block;\n    font-size: 1rem;\n    margin-bottom: 0.7rem;\n    color: #fff;\n    text-decoration: none;\n}\n.footer .about-us .links a[data-v-61a7c374]:hover, .footer .our-work .links a[data-v-61a7c374]:hover, .footer .quick-links .links a[data-v-61a7c374]:hover {\n    color: #ffcc03;\n}\n.footer .footnote[data-v-61a7c374] {\n    margin-top: 2rem;\n}\n.footer .footnote .privacy[data-v-61a7c374], .footer .footnote .legal[data-v-61a7c374] {\n    float: right;\n    margin-left: 0.5rem;\n    display: block;\n    font-size: 0.7rem;\n}\n}\n@media screen and (min-width: 992px) and (max-width: 1200px) {\n.footer[data-v-61a7c374] {\n    padding: 5rem 3rem;\n}\n.footer .elab img[data-v-61a7c374] {\n    height: 3rem;\n    margin-bottom: 1rem;\n}\n.footer .elab .subscribe[data-v-61a7c374] {\n    margin-bottom: 2.5rem;\n}\n.footer .elab .subscribe input[data-v-61a7c374] {\n    background: transparent;\n    border: 2px solid #fff;\n    height: 2rem;\n    width: 100%;\n}\n.footer .elab .subscribe .btn[data-v-61a7c374] {\n    background: #fff;\n    color: #000;\n    padding: 0.3rem 1rem;\n    margin-top: 0.5rem;\n}\n.footer .elab .socials[data-v-61a7c374] {\n    margin-bottom: 2rem;\n}\n.footer .elab .socials a[data-v-61a7c374] {\n    color: #000;\n    background: #fff;\n    margin-right: 0.5rem;\n    width: 3rem;\n    height: 1rem;\n    padding: 0.2rem 0.4rem;\n    border-radius: 50%;\n}\n.footer .about-us[data-v-61a7c374], .footer .our-work[data-v-61a7c374], .footer .quick-links[data-v-61a7c374] {\n    margin-bottom: 3rem;\n}\n.footer .about-us h4[data-v-61a7c374], .footer .our-work h4[data-v-61a7c374], .footer .quick-links h4[data-v-61a7c374] {\n    margin-bottom: 1.2rem;\n    font-size: 1.2rem;\n}\n.footer .about-us .links a[data-v-61a7c374], .footer .our-work .links a[data-v-61a7c374], .footer .quick-links .links a[data-v-61a7c374] {\n    display: block;\n    font-size: 1rem;\n    margin-bottom: 0.7rem;\n    color: #fff;\n    text-decoration: none;\n}\n.footer .about-us .links a[data-v-61a7c374]:hover, .footer .our-work .links a[data-v-61a7c374]:hover, .footer .quick-links .links a[data-v-61a7c374]:hover {\n    color: #ffcc03;\n}\n.footer .footnote[data-v-61a7c374] {\n    margin-top: 2rem;\n}\n.footer .footnote hr[data-v-61a7c374] {\n    background: #fff;\n}\n.footer .footnote .privacy[data-v-61a7c374], .footer .footnote .legal[data-v-61a7c374] {\n    float: right;\n    margin-left: 0.5rem;\n    display: block;\n    font-size: 0.7rem;\n}\n}\n@media screen and (min-width: 1200px) and (max-width: 1450px) {\n.subscribe[data-v-61a7c374] {\n    margin-bottom: 2.5rem;\n}\n.subscribe input[data-v-61a7c374] {\n    background: transparent;\n    border-right: 2px solid #fff !important;\n    border: 2px solid #fff;\n    height: 2rem;\n    width: 100%;\n}\n.subscribe .btn[data-v-61a7c374] {\n    background: #fff;\n    color: #000;\n    padding: 0.3rem 1rem;\n    margin-top: 0.5rem;\n}\n}", ""]);
+exports.push([module.i, ".footer[data-v-61a7c374] {\n  padding: 5rem 7rem;\n  background: #2f2f2f;\n  color: #fff;\n}\n.footer .elab img[data-v-61a7c374] {\n  height: 3rem;\n  margin-bottom: 1.5rem;\n}\n.footer .elab .subscribe[data-v-61a7c374] {\n  margin-bottom: 2rem;\n}\n.footer .elab .subscribe p[data-v-61a7c374] {\n  font-size: 1rem;\n}\n.footer .elab .socials[data-v-61a7c374] {\n  margin-bottom: 1.5rem;\n}\n.footer .elab .socials a[data-v-61a7c374] {\n  color: #fff;\n  background: transparent;\n  margin-right: 0.7rem;\n  width: 3.5rem;\n  height: 1rem;\n  padding: 0.2rem 0.4rem;\n  border-radius: 50%;\n  border: 2px solid #fff;\n}\n.footer .elab .socials a[data-v-61a7c374]:hover {\n  color: #ffcc03;\n  border: 2px solid #ffcc03;\n}\n.footer .about-us h4[data-v-61a7c374], .footer .our-work h4[data-v-61a7c374], .footer .quick-links h4[data-v-61a7c374] {\n  font-weight: bold;\n  margin-bottom: 3rem;\n  font-size: 1.2rem;\n}\n.footer .about-us .links a[data-v-61a7c374], .footer .our-work .links a[data-v-61a7c374], .footer .quick-links .links a[data-v-61a7c374] {\n  display: block;\n  font-size: 1rem;\n  margin-bottom: 0.7rem;\n  color: #fff;\n  text-decoration: none;\n}\n.footer .about-us .links a[data-v-61a7c374]:hover, .footer .our-work .links a[data-v-61a7c374]:hover, .footer .quick-links .links a[data-v-61a7c374]:hover {\n  color: #ffcc03;\n}\n.footer .footnote[data-v-61a7c374] {\n  margin-top: 3rem;\n}\n.footer .footnote hr[data-v-61a7c374] {\n  background: #fff;\n}\n.footer .footnote .privacy[data-v-61a7c374], .footer .footnote .legal[data-v-61a7c374] {\n  float: right;\n  margin-left: 2rem;\n}\n@media screen and (max-width: 576px) {\n.footer[data-v-61a7c374] {\n    padding: 5rem 2rem;\n}\n.footer .elab img[data-v-61a7c374] {\n    height: 3rem;\n    margin-bottom: 1rem;\n}\n.footer .elab .subscribe[data-v-61a7c374] {\n    margin-bottom: 2.5rem;\n}\n.footer .elab .subscribe input[data-v-61a7c374] {\n    background: transparent;\n    border: 2px solid #fff;\n}\n.footer .elab .subscribe .btn[data-v-61a7c374] {\n    background: #fff;\n    color: #000;\n}\n.footer .elab .socials[data-v-61a7c374] {\n    margin-bottom: 2rem;\n}\n.footer .elab .socials a[data-v-61a7c374] {\n    color: #000;\n    background: #fff;\n    margin-right: 0.7rem;\n    width: 3rem;\n    height: 1rem;\n    padding: 0.2rem 0.4rem;\n    border-radius: 50%;\n}\n.footer .about-us[data-v-61a7c374], .footer .our-work[data-v-61a7c374], .footer .quick-links[data-v-61a7c374] {\n    margin-bottom: 3rem;\n}\n.footer .about-us h4[data-v-61a7c374], .footer .our-work h4[data-v-61a7c374], .footer .quick-links h4[data-v-61a7c374] {\n    margin-bottom: 1.2rem;\n    font-size: 1.2rem;\n}\n.footer .about-us .links a[data-v-61a7c374], .footer .our-work .links a[data-v-61a7c374], .footer .quick-links .links a[data-v-61a7c374] {\n    display: block;\n    font-size: 1rem;\n    margin-bottom: 0.7rem;\n    color: #fff;\n    text-decoration: none;\n}\n.footer .about-us .links a[data-v-61a7c374]:hover, .footer .our-work .links a[data-v-61a7c374]:hover, .footer .quick-links .links a[data-v-61a7c374]:hover {\n    color: #ffcc03;\n}\n.footer .footnote[data-v-61a7c374] {\n    margin-top: 2rem;\n}\n.footer .footnote .privacy[data-v-61a7c374], .footer .footnote .legal[data-v-61a7c374] {\n    float: right;\n    margin-left: 0.5rem;\n    display: block;\n    font-size: 0.7rem;\n}\n}\n@media screen and (min-width: 576px) and (max-width: 768px) {\n.footer[data-v-61a7c374] {\n    padding: 5rem 3rem;\n}\n.footer .elab img[data-v-61a7c374] {\n    height: 3rem;\n    margin-bottom: 1rem;\n}\n.footer .elab .subscribe[data-v-61a7c374] {\n    margin-bottom: 2.5rem;\n}\n.footer .elab .subscribe input[data-v-61a7c374] {\n    background: transparent;\n    border: 2px solid #fff;\n    border-right: none;\n}\n.footer .elab .subscribe .btn[data-v-61a7c374] {\n    background: #fff;\n    color: #000;\n}\n.footer .elab .socials[data-v-61a7c374] {\n    margin-bottom: 2rem;\n}\n.footer .elab .socials a[data-v-61a7c374] {\n    color: #000;\n    background: #fff;\n    margin-right: 0.7rem;\n    width: 3rem;\n    height: 1rem;\n    padding: 0.2rem 0.4rem;\n    border-radius: 50%;\n}\n.footer .about-us[data-v-61a7c374], .footer .our-work[data-v-61a7c374], .footer .quick-links[data-v-61a7c374] {\n    margin-bottom: 3rem;\n}\n.footer .about-us h4[data-v-61a7c374], .footer .our-work h4[data-v-61a7c374], .footer .quick-links h4[data-v-61a7c374] {\n    margin-bottom: 1.2rem;\n    font-size: 1.2rem;\n}\n.footer .about-us .links a[data-v-61a7c374], .footer .our-work .links a[data-v-61a7c374], .footer .quick-links .links a[data-v-61a7c374] {\n    display: block;\n    font-size: 1rem;\n    margin-bottom: 0.7rem;\n    color: #fff;\n    text-decoration: none;\n}\n.footer .about-us .links a[data-v-61a7c374]:hover, .footer .our-work .links a[data-v-61a7c374]:hover, .footer .quick-links .links a[data-v-61a7c374]:hover {\n    color: #ffcc03;\n}\n.footer .footnote[data-v-61a7c374] {\n    margin-top: 2rem;\n}\n.footer .footnote .privacy[data-v-61a7c374], .footer .footnote .legal[data-v-61a7c374] {\n    float: right;\n    margin-left: 0.5rem;\n    display: block;\n    font-size: 0.7rem;\n}\n}\n@media screen and (min-width: 768px) and (max-width: 992px) {\n.footer[data-v-61a7c374] {\n    padding: 5rem 3rem;\n}\n.footer .elab img[data-v-61a7c374] {\n    height: 3rem;\n    margin-bottom: 1rem;\n}\n.footer .elab .subscribe[data-v-61a7c374] {\n    margin-bottom: 2.5rem;\n}\n.footer .elab .subscribe input[data-v-61a7c374] {\n    background: transparent;\n    border: 2px solid #fff;\n    border-right: none;\n}\n.footer .elab .subscribe .btn[data-v-61a7c374] {\n    background: #fff;\n    color: #000;\n}\n.footer .elab .socials[data-v-61a7c374] {\n    margin-bottom: 2rem;\n}\n.footer .elab .socials a[data-v-61a7c374] {\n    color: #000;\n    background: #fff;\n    margin-right: 0.7rem;\n    width: 3rem;\n    height: 1rem;\n    padding: 0.2rem 0.4rem;\n    border-radius: 50%;\n}\n.footer .about-us[data-v-61a7c374], .footer .our-work[data-v-61a7c374], .footer .quick-links[data-v-61a7c374] {\n    margin-bottom: 3rem;\n}\n.footer .about-us h4[data-v-61a7c374], .footer .our-work h4[data-v-61a7c374], .footer .quick-links h4[data-v-61a7c374] {\n    margin-bottom: 1.2rem;\n    font-size: 1.2rem;\n}\n.footer .about-us .links a[data-v-61a7c374], .footer .our-work .links a[data-v-61a7c374], .footer .quick-links .links a[data-v-61a7c374] {\n    display: block;\n    font-size: 1rem;\n    margin-bottom: 0.7rem;\n    color: #fff;\n    text-decoration: none;\n}\n.footer .about-us .links a[data-v-61a7c374]:hover, .footer .our-work .links a[data-v-61a7c374]:hover, .footer .quick-links .links a[data-v-61a7c374]:hover {\n    color: #ffcc03;\n}\n.footer .footnote[data-v-61a7c374] {\n    margin-top: 2rem;\n}\n.footer .footnote .privacy[data-v-61a7c374], .footer .footnote .legal[data-v-61a7c374] {\n    float: right;\n    margin-left: 0.5rem;\n    display: block;\n    font-size: 0.7rem;\n}\n}\n@media screen and (min-width: 992px) and (max-width: 1200px) {\n.footer[data-v-61a7c374] {\n    padding: 5rem 3rem;\n}\n.footer .elab img[data-v-61a7c374] {\n    height: 3rem;\n    margin-bottom: 1rem;\n}\n.footer .elab .subscribe[data-v-61a7c374] {\n    margin-bottom: 2.5rem;\n}\n.footer .elab .subscribe input[data-v-61a7c374] {\n    background: transparent;\n    border: 2px solid #fff;\n    height: 2rem;\n    width: 100%;\n}\n.footer .elab .subscribe .btn[data-v-61a7c374] {\n    background: #fff;\n    color: #000;\n    padding: 0.3rem 1rem;\n    margin-top: 0.5rem;\n}\n.footer .elab .socials[data-v-61a7c374] {\n    margin-bottom: 2rem;\n}\n.footer .elab .socials a[data-v-61a7c374] {\n    color: #000;\n    background: #fff;\n    margin-right: 0.5rem;\n    width: 3rem;\n    height: 1rem;\n    padding: 0.2rem 0.4rem;\n    border-radius: 50%;\n}\n.footer .about-us[data-v-61a7c374], .footer .our-work[data-v-61a7c374], .footer .quick-links[data-v-61a7c374] {\n    margin-bottom: 3rem;\n}\n.footer .about-us h4[data-v-61a7c374], .footer .our-work h4[data-v-61a7c374], .footer .quick-links h4[data-v-61a7c374] {\n    margin-bottom: 1.2rem;\n    font-size: 1.2rem;\n}\n.footer .about-us .links a[data-v-61a7c374], .footer .our-work .links a[data-v-61a7c374], .footer .quick-links .links a[data-v-61a7c374] {\n    display: block;\n    font-size: 1rem;\n    margin-bottom: 0.7rem;\n    color: #fff;\n    text-decoration: none;\n}\n.footer .about-us .links a[data-v-61a7c374]:hover, .footer .our-work .links a[data-v-61a7c374]:hover, .footer .quick-links .links a[data-v-61a7c374]:hover {\n    color: #ffcc03;\n}\n.footer .footnote[data-v-61a7c374] {\n    margin-top: 2rem;\n}\n.footer .footnote hr[data-v-61a7c374] {\n    background: #fff;\n}\n.footer .footnote .privacy[data-v-61a7c374], .footer .footnote .legal[data-v-61a7c374] {\n    float: right;\n    margin-left: 0.5rem;\n    display: block;\n    font-size: 0.7rem;\n}\n}\n@media screen and (min-width: 1200px) and (max-width: 1450px) {\n.subscribe[data-v-61a7c374] {\n    margin-bottom: 2.5rem;\n}\n.subscribe input[data-v-61a7c374] {\n    background: transparent;\n    border-right: 2px solid #fff !important;\n    border: 2px solid #fff;\n    height: 2rem;\n    width: 100%;\n}\n.subscribe .btn[data-v-61a7c374] {\n    background: #fff;\n    color: #000;\n    padding: 0.3rem 1rem;\n    margin-top: 0.5rem;\n}\n}", ""]);
 
 // exports
 
@@ -45278,30 +45271,36 @@ var render = function() {
           "div",
           { staticClass: "links" },
           [
-            _c("router-link", { attrs: { to: "/" } }, [
+            _c("router-link", { attrs: { to: "/innovation-hub" } }, [
               _vm._v("Innovation Hub")
             ]),
             _vm._v(" "),
-            _c("router-link", { attrs: { to: "/" } }, [
+            _c("router-link", { attrs: { to: "/startup-foundry" } }, [
               _vm._v("Startup Foundry")
             ]),
             _vm._v(" "),
-            _c("router-link", { attrs: { to: "/" } }, [_vm._v("Seed Fund")])
+            _c("router-link", { attrs: { to: "/seed-cloud" } }, [
+              _vm._v("Seed Fund")
+            ])
           ],
           1
         )
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "col-lg-3 col-md-6 our-work" }, [
-        _c("h4", [_vm._v("Our Work")]),
+        _c("h4", [_vm._v("eXperiments")]),
         _vm._v(" "),
         _c(
           "div",
           { staticClass: "links" },
           [
-            _c("router-link", { attrs: { to: "/" } }, [_vm._v("Ennovate Lab")]),
+            _c("router-link", { attrs: { to: "/experiments" } }, [
+              _vm._v("Sand Box")
+            ]),
             _vm._v(" "),
-            _c("router-link", { attrs: { to: "/" } }, [_vm._v("The Lab")]),
+            _c("router-link", { attrs: { to: "/experiments" } }, [
+              _vm._v("Factory")
+            ]),
             _vm._v(" "),
             _c("router-link", { attrs: { to: "/" } }, [_vm._v("Seed Cloud")])
           ],
@@ -45316,13 +45315,15 @@ var render = function() {
           "div",
           { staticClass: "links" },
           [
-            _c("router-link", { attrs: { to: "/" } }, [_vm._v("Resources")]),
+            _c("router-link", { attrs: { to: "/resources" } }, [
+              _vm._v("Resources")
+            ]),
             _vm._v(" "),
-            _c("router-link", { attrs: { to: "/" } }, [_vm._v("Blog")]),
+            _c("router-link", { attrs: { to: "/blog" } }, [_vm._v("Blog")]),
             _vm._v(" "),
-            _c("router-link", { attrs: { to: "/" } }, [_vm._v("eXperimennts")]),
-            _vm._v(" "),
-            _c("router-link", { attrs: { to: "/" } }, [_vm._v("Contact Us")])
+            _c("router-link", { attrs: { to: "/contact-us" } }, [
+              _vm._v("Contact Us")
+            ])
           ],
           1
         )
@@ -45351,25 +45352,17 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "col-lg-3 col-md-6 elab " }, [
+    return _c("div", { staticClass: "col-lg-3 col-md-6 elab" }, [
       _c("img", {
         staticClass: "img-fluid",
         attrs: { src: "/img/full_logo2.png", alt: "Ennovate lab's logo" }
       }),
       _vm._v(" "),
       _c("div", { staticClass: "subscribe" }, [
-        _c("label", { attrs: { for: "subscribe" } }, [
-          _vm._v("Subscribe to our weekly newsletter")
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "input-group" }, [
-          _c("input", { attrs: { type: "email", id: "subscribe" } }),
-          _vm._v(" "),
-          _c("div", { staticClass: "input-group-append" }, [
-            _c("button", { staticClass: "btn", attrs: { type: "button" } }, [
-              _vm._v("Subscribe")
-            ])
-          ])
+        _c("p", [
+          _vm._v(
+            "Building Resilient Innovation Ecosystems in Under-served University communities"
+          )
         ])
       ]),
       _vm._v(" "),
@@ -45433,53 +45426,7 @@ var render = function() {
       1
     ),
     _vm._v(" "),
-    _c("div", { staticClass: "navigation" }, [
-      _c("input", {
-        staticClass: "navigation__checkbox",
-        attrs: { type: "checkbox", id: "navi-toggle" }
-      }),
-      _vm._v(" "),
-      _vm._m(0),
-      _vm._v(" "),
-      _c("div", { staticClass: "navigation__background" }, [_vm._v(" ")]),
-      _vm._v(" "),
-      _c("nav", { staticClass: "navigation__nav" }, [
-        _c("ul", { staticClass: "navigation__list" }, [
-          _vm._m(1),
-          _vm._v(" "),
-          _vm._m(2),
-          _vm._v(" "),
-          _vm._m(3),
-          _vm._v(" "),
-          _c(
-            "li",
-            { staticClass: "navigation__item", on: { click: _vm.reload } },
-            [
-              _c(
-                "a",
-                {
-                  staticClass: "navigation__link",
-                  attrs: { href: "/resources" }
-                },
-                [_vm._v("Resources")]
-              )
-            ]
-          ),
-          _vm._v(" "),
-          _c(
-            "li",
-            { staticClass: "navigation__item", on: { click: _vm.reload } },
-            [
-              _c(
-                "a",
-                { staticClass: "navigation__link", attrs: { href: "/blog" } },
-                [_vm._v("Blog")]
-              )
-            ]
-          )
-        ])
-      ])
-    ])
+    _vm._m(0)
   ])
 }
 var staticRenderFns = [
@@ -45487,50 +45434,76 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c(
-      "label",
-      { staticClass: "navigation__button", attrs: { for: "navi-toggle" } },
-      [
-        _c("span", { staticClass: "navigation__icon" }, [_vm._v(" ")]),
-        _vm._v(" "),
-        _c("span", { staticClass: "navigation__text" }, [_vm._v("menu")])
-      ]
-    )
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("li", { staticClass: "navigation__item" }, [
+    return _c("div", { staticClass: "navigation" }, [
+      _c("input", {
+        staticClass: "navigation__checkbox",
+        attrs: { type: "checkbox", id: "navi-toggle" }
+      }),
+      _vm._v(" "),
       _c(
-        "a",
-        { staticClass: "navigation__link", attrs: { href: "/about-us" } },
-        [_vm._v("About Us")]
-      )
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("li", { staticClass: "navigation__item" }, [
-      _c(
-        "a",
-        { staticClass: "navigation__link", attrs: { href: "/our-work" } },
-        [_vm._v("Our Work")]
-      )
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("li", { staticClass: "navigation__item" }, [
-      _c(
-        "a",
-        { staticClass: "navigation__link", attrs: { href: "/experiments" } },
-        [_vm._v("eXperiments")]
-      )
+        "label",
+        { staticClass: "navigation__button", attrs: { for: "navi-toggle" } },
+        [
+          _c("span", { staticClass: "navigation__icon" }, [_vm._v(" ")]),
+          _vm._v(" "),
+          _c("span", { staticClass: "navigation__text" }, [_vm._v("menu")])
+        ]
+      ),
+      _vm._v(" "),
+      _c("div", { staticClass: "navigation__background" }, [_vm._v(" ")]),
+      _vm._v(" "),
+      _c("nav", { staticClass: "navigation__nav" }, [
+        _c("ul", { staticClass: "navigation__list" }, [
+          _c("li", { staticClass: "navigation__item" }, [
+            _c(
+              "a",
+              { staticClass: "navigation__link", attrs: { href: "/about-us" } },
+              [_vm._v("About Us")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "navigation__item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "navigation__link",
+                attrs: { href: "/startup-foundry" }
+              },
+              [_vm._v("Foundry")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "navigation__item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "navigation__link",
+                attrs: { href: "/experiments" }
+              },
+              [_vm._v("eXperiments")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "navigation__item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "navigation__link",
+                attrs: { href: "/resources" }
+              },
+              [_vm._v("Resources")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "navigation__item" }, [
+            _c(
+              "a",
+              { staticClass: "navigation__link", attrs: { href: "/blog" } },
+              [_vm._v("Blog")]
+            )
+          ])
+        ])
+      ])
     ])
   }
 ]
@@ -46960,7 +46933,7 @@ var render = function() {
               [
                 _vm._m(1),
                 _vm._v(" "),
-                _c("h4", [_vm._v("The art of Desruptive Design")]),
+                _c("h4", [_vm._v("The art of Disruptive Design")]),
                 _vm._v(" "),
                 _c("p", [
                   _vm._v(
@@ -46997,7 +46970,7 @@ var render = function() {
                 _vm._v(" "),
                 _c("p", [
                   _vm._v(
-                    "Building resilient innovation ecosystems in underserved university communities."
+                    "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos laboriosam optio placeat rem officia ut maiores nihil repellendus magni tenetur vitae ab corporis sit alias vero, dolores facere fuga sunt?"
                   )
                 ]),
                 _vm._v(" "),
@@ -48809,7 +48782,7 @@ var staticRenderFns = [
                       {
                         staticClass: "link",
                         attrs: {
-                          href: "https://greengirly.com",
+                          href: "https://commugrid.com",
                           target: "_blank"
                         }
                       },
